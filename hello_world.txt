@@ -1,0 +1,1 @@
+Writing this to modify the file, so I can practice adding it to the staging area in my terminal.
